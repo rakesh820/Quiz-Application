@@ -1,6 +1,3 @@
-# Quiz-Application
-Quiz Application along with API Gateway using Microservices and Spring Boot
-
 # Quiz Application – Microservices Architecture
 A modular quiz management system built using Spring Boot and Spring Cloud Microservices, designed to demonstrate real-world microservices concepts such as service registry, load balancing, and centralized routing.
 
